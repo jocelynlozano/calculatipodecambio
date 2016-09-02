@@ -1,0 +1,23 @@
+.titulo {
+	text-align: center;
+	color: #FF0080;
+	font-family: 'Baloo Tamma',cursive;
+}
+
+.color {
+	color: #8904B1;
+	font-family: 'Ubuntu', sans-serif;
+}
+
+.colorfondoboton {
+	text-align: center;
+	background-color: #F6CED8;
+	color: #FF0080;
+	font-family: 'Ubuntu', sans-serif;
+}
+
+.colorfondo {
+	background-color: #E2A9F3;
+	color: #8904B1;
+	font-family: 'Ubuntu', sans-serif;
+}
